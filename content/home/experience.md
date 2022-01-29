@@ -22,28 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Scientist II
+    company: Amazon Alexa AI
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: amazon-icon
+    location: Boston
+    date_start: '2017-09-18'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Research on cutting-edge AI technologies
+        * Product Development which help Alexa teams to develop features
+        * Developing features for Alexa
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Data Science Intern
+    company: Excellus BlueCross BlueShield
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Buffalo, NY
+    date_start: '2017-06-01'
+    date_end: '2017-08-11'
+    description: Created models to analyze and help in medicare retention.
+
+  - title: Senior Software Engineer
+    company: IBM India Pvt. Ltd.
+    company_url: ''
+    company_logo: org-x
+    location: Noida(UP), India
+    date_start: '2013-03-07'
+    date_end: '2016-07-20'
+    description: Created software to reconcile the billing/finance for various US/Canada clients.
 
 design:
   columns: '2'
