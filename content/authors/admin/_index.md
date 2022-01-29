@@ -23,6 +23,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shubham8garg/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: facebook
+    link: https://www.facebook.com/shubham8garg/
 organizations:
   - name: Amazon Alexa AI
     url: https://amazon.jobs/en/teams/alexa-ai
