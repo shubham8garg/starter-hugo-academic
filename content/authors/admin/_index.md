@@ -1,22 +1,21 @@
 ---
 title: Shubham Garg
 role: Machine Learning Leader
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include utilizing AI to solve ambiguous problems - Natural Language Generation, Conversational AI, techable and explainable AI.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Natural Language Processing
+  - Conversational AI
+  - Teachable and Explainable AI
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/shubham8garg
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/shubham8garg
@@ -33,16 +32,16 @@ organizations:
     url: https://amazon.jobs/en/teams/alexa-ai
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: Master of Science in MIS
+      institution: University at Buffalo, NY
+      year: 2017
+    - course: B.Tech in ECE
+      institution: College of Engineering Roorkee, India
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    # - course: BSc in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2008
+email: "shubham8garg@gmail.com"
 superuser: true
 highlight_name: true
 ---

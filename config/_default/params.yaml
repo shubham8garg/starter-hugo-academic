@@ -23,7 +23,7 @@ twitter: ''
 email: shubham8garg@gmail.com
 phone: +1(716)292-9731
 address:
-  street: 30 Harbor Point Blvd
+  #street: 30 Harbor Point Blvd
   city: Boston
   region: MA
   postcode: '02125'
