@@ -10,14 +10,14 @@ active: false
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Paper Reviews
 subtitle: ''
 
 content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - papers
     tag: ''
     category: ''
     publication_type: ''
@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+Quickly discover previously reviewed papers by [filtering papers](./publication/).
 {{% /callout %}}
