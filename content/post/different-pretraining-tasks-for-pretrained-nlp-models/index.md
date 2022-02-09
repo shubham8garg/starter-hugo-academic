@@ -16,6 +16,8 @@ Depending on whether the pretrained model is encoder only or encoder-decoder fra
 
 2. Span Correction
 
+Cross-lingual text-to-text pretraining tasks:
+
 3. Translation Pair Span correction
 
 4. Translation Span Correction
@@ -26,6 +28,11 @@ Depending on whether the pretrained model is encoder only or encoder-decoder fra
 
 
 
-5. Machine Translation
+### 5. Machine Translation
 
-In this task, goal is to translate a sentence from source language to target language
+Machine Translation is used as a text-to-text pretraining task for Seq-to-Seq learning. It was used in paper ['Cross-Lingual Natural Language Generation via Pre-training'](https://arxiv.org/abs/1909.10481).  Let e and f denote a sentence and its corresponding translation. We directly use e and f as the input and output sequences, respectively. The loss function of MT is    
+Lmt(e,f) = L(e -> f)
+
+
+
+
