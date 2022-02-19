@@ -9,7 +9,7 @@ tags:
   - mental_health
   - self_care
 categories:
-  - health
+  - Health
 image:
   filename: featured
   focal_point: Smart
