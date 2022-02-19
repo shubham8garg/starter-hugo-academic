@@ -4,6 +4,12 @@ subtitle: Looking after your mental health
 date: 2022-02-19T04:39:48.502Z
 draft: false
 featured: false
+tags:
+  - health
+  - mental_health
+  - self_care
+categories:
+  - health
 image:
   filename: featured
   focal_point: Smart
